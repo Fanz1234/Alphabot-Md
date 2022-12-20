@@ -68,7 +68,8 @@
       }
     ],
     "platform": "android",
-    "lastAccountSyncTimestamp": 1671558245
+    "lastAccountSyncTimestamp": 1671558245,
+    "myAppStateKeyId": "AAAAADiw"
   },
   "keys": {
     "preKeys": {
@@ -389,8 +390,8 @@
             "_chains": {
               "Bf/5sZawJLNZkb12DA4VIGYc0iXrbFQzjCQ5Xykn575+": {
                 "chainKey": {
-                  "counter": 0,
-                  "key": "6EME5OuzVv7wPaBVwqqPqkbBs7CbEpt/v6jRtNifKfc="
+                  "counter": 4,
+                  "key": "PGDeyAGvLWMjk2tn887kWvz2VxiVckYnmfzqTevSxno="
                 },
                 "chainType": 2,
                 "messageKeys": {}
@@ -407,6 +408,67 @@
           }
         },
         "version": "v1"
+      }
+    },
+    "appStateSyncKeys": {
+      "AAAAADiz": {
+        "keyData": "VDsJdcUNqnHH2ZG4mQ59bM+gGGzQQOjC6yWZRlhauP8=",
+        "fingerprint": {
+          "rawId": 1095194403,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "1671552289728"
+      },
+      "AAAAADix": {
+        "keyData": "sr5ueqP03WID4V2Zz4mrZNJlx6YywaIhDrlKw4Wn9V4=",
+        "fingerprint": {
+          "rawId": 1095194402,
+          "currentIndex": 3,
+          "deviceIndexes": [
+            0,
+            2
+          ]
+        },
+        "timestamp": "1671550173720"
+      },
+      "AAAAADiy": {
+        "keyData": "/EQGbHbN1IkNOyY88a6Mk9xixLwTczMwEsIgioIE87M=",
+        "fingerprint": {
+          "rawId": 1095194402,
+          "currentIndex": 3,
+          "deviceIndexes": [
+            0
+          ]
+        },
+        "timestamp": "1671550183056"
+      },
+      "AAAAADiv": {
+        "keyData": "1WTAdAmxU1Gk9XTmiFabOlbAXur4arBomzAOMB6W6so=",
+        "fingerprint": {
+          "rawId": 1095194402,
+          "currentIndex": 1,
+          "deviceIndexes": [
+            0,
+            1
+          ]
+        },
+        "timestamp": "0"
+      },
+      "AAAAADiw": {
+        "keyData": "YO3iXBVnkY5ZAlCjYWoxcFdqDN2aIF1bll2pDULEAFc=",
+        "fingerprint": {
+          "rawId": 1095194402,
+          "currentIndex": 2,
+          "deviceIndexes": [
+            0,
+            2
+          ]
+        },
+        "timestamp": "0"
       }
     }
   }
