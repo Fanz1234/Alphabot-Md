@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "FanzBotzz-Md",
   "version": "1.1.6",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "FanzBotzz-Md",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Fanz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
